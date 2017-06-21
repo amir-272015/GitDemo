@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"Hello World");
-    NSLog(@"Update Branch");
+    NSLog(@"Update Branch after revert");
 }
 
 
